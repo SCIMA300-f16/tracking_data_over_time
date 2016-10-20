@@ -60,7 +60,7 @@ void setup() {
 }
 
 void draw() {
-  background(101,185,201);
+  background(0);
   //show the plot area as white box
   fill(255);
   rectMode(CORNERS);
