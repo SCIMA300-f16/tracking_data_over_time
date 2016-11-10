@@ -58,4 +58,3 @@ class Integrator {
     targeting = false;
   }
 }
-

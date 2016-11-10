@@ -221,4 +221,3 @@ class FloatTable {
     return m;
   }
 }
-
